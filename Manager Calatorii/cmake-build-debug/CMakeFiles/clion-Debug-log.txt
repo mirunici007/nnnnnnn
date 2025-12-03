@@ -1,4 +1,0 @@
-"C:\Program Files\JetBrains1\CLion 2024.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains1/CLion 2024.3.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\HP-15S\Desktop\Manager Calatorii" -B "C:\Users\HP-15S\Desktop\Manager Calatorii\cmake-build-debug"
--- Configuring done (1.3s)
--- Generating done (0.8s)
--- Build files have been written to: C:/Users/HP-15S/Desktop/Manager Calatorii/cmake-build-debug

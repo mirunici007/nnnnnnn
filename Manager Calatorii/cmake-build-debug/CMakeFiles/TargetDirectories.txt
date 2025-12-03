@@ -1,3 +1,0 @@
-C:/Users/HP-15S/Desktop/Manager Calatorii/cmake-build-debug/CMakeFiles/Manager_Calatorii.dir
-C:/Users/HP-15S/Desktop/Manager Calatorii/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/HP-15S/Desktop/Manager Calatorii/cmake-build-debug/CMakeFiles/rebuild_cache.dir
